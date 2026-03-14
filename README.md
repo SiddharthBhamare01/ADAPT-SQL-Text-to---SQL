@@ -185,7 +185,7 @@ Performance measured on Spider dev set (1,034 examples) using official metrics:
 
 For questions or collaboration opportunities, please open an issue in this repository.
 
-Author: Siddharth Bhamare
+Author: Siddharth Vijay Bhamare
 
 ---
 
